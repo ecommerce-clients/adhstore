@@ -1,0 +1,1 @@
+var SubDomain = 'adhstore'; var SiteID = 'B66724A0-1C84-4C58-ADFE-6C785A2BBEAF'; var host = 'https://api.eraconnect.net';
